@@ -13,7 +13,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1>LAPORAN LAUNDRY DAN LISTRIK SAMANTA</h1>
+            <h1>LAPORAN LAUNDRY DAN LISTRIK AHS GROUP</h1>
         </div>
     </div>
     <div class="row">
