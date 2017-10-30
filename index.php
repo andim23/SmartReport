@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="login">
-    <h1>Laporan Laundry dan Listrik AHS Group</h1>
+    <h1>Laporan Laundry dan Listrik - Smart Report</h1>
     <form action="ajax/search.php" method="get">
     	<input type="text" name="id" placeholder="ID" required="required"/>
         <button type="submit" class="btn btn-primary btn-block btn-large" value="Submit">Cari</button>
